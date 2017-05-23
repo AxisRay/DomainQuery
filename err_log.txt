@@ -1,0 +1,498 @@
+None of DNS query names exist: 1984blog.com., 1984blog.com.
+None of DNS query names exist: 1apple.com.tw., 1apple.com.tw.
+None of DNS query names exist: 213.so., 213.so.
+The DNS response does not contain an answer to the question: 2hand.info. IN A
+None of DNS query names exist: 315lz.com., 315lz.com.
+None of DNS query names exist: 365singles.com.ar., 365singles.com.ar.
+The DNS response does not contain an answer to the question: acgkj.com. IN A
+The DNS response does not contain an answer to the question: aculo.us. IN A
+The DNS response does not contain an answer to the question: aec.gov.tw. IN A
+The DNS response does not contain an answer to the question: af.mil. IN A
+The DNS response does not contain an answer to the question: afp-direct.com. IN A
+The DNS response does not contain an answer to the question: aide.gov.tw. IN A
+The DNS response does not contain an answer to the question: aftygh.gov.tw. IN A
+The DNS response does not contain an answer to the question: afp.com. IN A
+The DNS response does not contain an answer to the question: akamaihd.net. IN A
+The DNS response does not contain an answer to the question: akamai.net. IN A
+None of DNS query names exist: alternatetools.com., alternatetools.com.
+The DNS response does not contain an answer to the question: am730.com.hk. IN A
+None of DNS query names exist: analyzev.com., analyzev.com.
+The DNS response does not contain an answer to the question: animecrazy.net. IN A
+None of DNS query names exist: aolchannels.aol.com., aolchannels.aol.com.
+The DNS response does not contain an answer to the question: army.mil. IN A
+The DNS response does not contain an answer to the question: arte.gov.tw. IN A
+None of DNS query names exist: arecabackup.org., arecabackup.org.
+The DNS response does not contain an answer to the question: aspnetcdn.com. IN A
+The DNS response does not contain an answer to the question: avwikipedia.com. IN A
+The DNS response does not contain an answer to the question: bahamut.com.tw. IN A
+The DNS response does not contain an answer to the question: bcc.com.tw. IN A
+The DNS response does not contain an answer to the question: bdhr.gov.tw. IN A
+None of DNS query names exist: biantailajiao.com., biantailajiao.com.
+None of DNS query names exist: biantailajiao.in., biantailajiao.in.
+None of DNS query names exist: bill2software.com., bill2software.com.
+The DNS response does not contain an answer to the question: blockcn.com. IN A
+The DNS response does not contain an answer to the question: blogimg.jp. IN A
+All nameservers failed to answer the query bic2011.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: blogtd.net. IN A
+The DNS response does not contain an answer to the question: bochk.com. IN A
+The DNS response does not contain an answer to the question: bocionline.com. IN A
+The DNS response does not contain an answer to the question: boxunblog.com. IN A
+The DNS response does not contain an answer to the question: branch.com. IN A
+The DNS response does not contain an answer to the question: briefdream.com. IN A
+All nameservers failed to answer the query brandonhutchinson.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: buugaa.com., buugaa.com.
+None of DNS query names exist: bwsj.hk., bwsj.hk.
+The DNS response does not contain an answer to the question: byethost8.com. IN A
+All nameservers failed to answer the query atj.org.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: catfightpayperview.xxx., catfightpayperview.xxx.
+The DNS query name does not exist: cdn.
+The DNS response does not contain an answer to the question: cdn.softlayer.net. IN A
+None of DNS query names exist: cdpusa.org., cdpusa.org.
+The DNS response does not contain an answer to the question: cfhks.org.hk. IN A
+All nameservers failed to answer the query chinaaid.us. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: chinatweeps.com., chinatweeps.com.
+The DNS response does not contain an answer to the question: chinaxchina.com. IN A
+None of DNS query names exist: chinayuanmin.org., chinayuanmin.org.
+None of DNS query names exist: chinesehermit.net., chinesehermit.net.
+All nameservers failed to answer the query chinaaid.me. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: christusrex.org. IN A
+The DNS response does not contain an answer to the question: chuizi.net. IN A
+All nameservers failed to answer the query chromercise.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: cloudapp.net. IN A
+The DNS response does not contain an answer to the question: cloudfront.net. IN A
+The DNS response does not contain an answer to the question: club.tw. IN A
+None of DNS query names exist: code1984.com., code1984.com.
+None of DNS query names exist: compython.net., compython.net.
+None of DNS query names exist: cookingtothegoodlife.com., cookingtothegoodlife.com.
+None of DNS query names exist: cphouse.gov.tw., cphouse.gov.tw.
+None of DNS query names exist: crdnet.org., crdnet.org.
+None of DNS query names exist: crossthewall.net., crossthewall.net.
+The DNS response does not contain an answer to the question: culture.tw. IN A
+The DNS response does not contain an answer to the question: cycab.gov.tw. IN A
+All nameservers failed to answer the query chccc.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: dabr.mobi., dabr.mobi.
+The DNS response does not contain an answer to the question: dajiyuan.eu. IN A
+None of DNS query names exist: dapuhouse.gov.tw., dapuhouse.gov.tw.
+The DNS response does not contain an answer to the question: darpa.mil. IN A
+The DNS response does not contain an answer to the question: datavocabulary.org. IN A
+The DNS response does not contain an answer to the question: ddc.com.tw. IN A
+The DNS response does not contain an answer to the question: delicious.com. IN A
+None of DNS query names exist: designersartists.com., designersartists.com.
+None of DNS query names exist: designerol.com., designerol.com.
+None of DNS query names exist: destroychina.jp., destroychina.jp.
+The DNS response does not contain an answer to the question: dfas.mil. IN A
+None of DNS query names exist: dllaby.jp., dllaby.jp.
+None of DNS query names exist: dokforum.net., dokforum.net.
+None of DNS query names exist: dontmovetochina.com., dontmovetochina.com.
+None of DNS query names exist: dotheyfolloweachother.com., dotheyfolloweachother.com.
+The DNS response does not contain an answer to the question: dpp.org.tw. IN A
+The DNS response does not contain an answer to the question: drakengren.com. IN A
+The DNS response does not contain an answer to the question: dropboxusercontent.com. IN A
+The DNS response does not contain an answer to the question: dwnews.net. IN A
+All nameservers failed to answer the query cuiweiping.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: easyweb.hk. IN A
+The DNS response does not contain an answer to the question: edgesuite.net. IN A
+None of DNS query names exist: eevpn.com., eevpn.com.
+None of DNS query names exist: einfo.org.tw., einfo.org.tw.
+The DNS response does not contain an answer to the question: eltondisney.com. IN A
+The DNS response does not contain an answer to the question: embr.in. IN A
+None of DNS query names exist: epcjav.com., epcjav.com.
+None of DNS query names exist: epochtimesbg.com., epochtimesbg.com.
+The DNS response does not contain an answer to the question: espacy.com. IN A
+The DNS response does not contain an answer to the question: etraining.gov.tw. IN A
+None of DNS query names exist: etraderland.net., etraderland.net.
+None of DNS query names exist: exco.jp., exco.jp.
+None of DNS query names exist: eyespirit.info., eyespirit.info.
+The DNS response does not contain an answer to the question: fangong.org. IN A
+None of DNS query names exist: fanqiangyakexi.net., fanqiangyakexi.net.
+The DNS response does not contain an answer to the question: fangeming.com. IN A
+The DNS response does not contain an answer to the question: fatduck.org. IN A
+The DNS query name does not exist: fbcdn.
+All nameservers failed to answer the query famunion.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: fly4ever.me., fly4ever.me.
+All nameservers failed to answer the query fireofliberty.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: footwiball.com., footwiball.com.
+All nameservers failed to answer the query files2me.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: free4u.com.ar., free4u.com.ar.
+None of DNS query names exist: freehadanow.org., freehadanow.org.
+None of DNS query names exist: freemoren.com., freemoren.com.
+All nameservers failed to answer the query ezpc.tk. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: freenetchina.org., freenetchina.org.
+All nameservers failed to answer the query favorious.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: freeserve.co.uk. IN A
+All nameservers failed to answer the query cmoinc.org. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: ftchinese.com. IN A
+None of DNS query names exist: fuckcnnic.net., fuckcnnic.net.
+The DNS response does not contain an answer to the question: fuckgfw.com. IN A
+All nameservers failed to answer the query furl.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: gather.com. IN A
+None of DNS query names exist: gaymap.cc., gaymap.cc.
+The DNS response does not contain an answer to the question: geekerhome.com. IN A
+The DNS response does not contain an answer to the question: geocities.co.jp. IN A
+The DNS response does not contain an answer to the question: geocities.jp. IN A
+All nameservers failed to answer the query foxtang.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: gfw.org.ua., gfw.org.ua.
+The DNS response does not contain an answer to the question: ggpht.com. IN A
+None of DNS query names exist: gigaweb.jp., gigaweb.jp.
+The DNS response does not contain an answer to the question: gio.gov.tw. IN A
+The DNS response does not contain an answer to the question: global.hkepc.com. IN A
+The DNS response does not contain an answer to the question: gmbd.cn. IN A
+The DNS response does not contain an answer to the question: gmote.org. IN A
+The DNS response does not contain an answer to the question: goldbetsports.com. IN A
+None of DNS query names exist: Google.other., Google.other.
+The DNS response does not contain an answer to the question: googlehosted.com. IN A
+None of DNS query names exist: googlemelange.com., googlemelange.com.
+All nameservers failed to answer the query googlelabs.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: googlesile.com., googlesile.com.
+The DNS response does not contain an answer to the question: googletagservices.com. IN A
+The DNS response does not contain an answer to the question: googleusercontent.com. IN A
+The DNS response does not contain an answer to the question: gowalla.com. IN A
+The DNS response does not contain an answer to the question: grb.gov.tw. IN A
+None of DNS query names exist: greatroc.tw., greatroc.tw.
+None of DNS query names exist: gsdiscuss.com., gsdiscuss.com.
+All nameservers failed to answer the query greatfirewallofchina.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: gvm.com.tw. IN A
+The DNS response does not contain an answer to the question: gvt0.com. IN A
+None of DNS query names exist: gysd.nyc.gov.tw., gysd.nyc.gov.tw.
+None of DNS query names exist: h1n1china.org., h1n1china.org.
+None of DNS query names exist: gzoneanime.info., gzoneanime.info.
+The DNS response does not contain an answer to the question: hakkatv.org.tw. IN A
+All nameservers failed to answer the query flightcaster.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: headius.com. IN A
+The DNS response does not contain an answer to the question: hchina.org. IN A
+The DNS response does not contain an answer to the question: hechaji.com. IN A
+None of DNS query names exist: heix.pp.ru., heix.pp.ru.
+All nameservers failed to answer the query facebook-pmdcenter.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: heungkongdiscuss.com., heungkongdiscuss.com.
+The DNS response does not contain an answer to the question: higfw.com. IN A
+All nameservers failed to answer the query givemesomethingtoread.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query gaopi.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query facebookmarketingpartners.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: hkexnews.hk. IN A
+All nameservers failed to answer the query himemix.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: hkgreenradio.org., hkgreenradio.org.
+All nameservers failed to answer the query gclooney.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: hkwcc.org.hk. IN A
+None of DNS query names exist: hkzone.org., hkzone.org.
+None of DNS query names exist: hougaige.com., hougaige.com.
+None of DNS query names exist: hrcir.com., hrcir.com.
+The DNS response does not contain an answer to the question: hsbc.hk. IN A
+None of DNS query names exist: hsinchucc.gov.tw., hsinchucc.gov.tw.
+All nameservers failed to answer the query highrockmedia.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: huhamhire.com. IN A
+The DNS response does not contain an answer to the question: huluim.com. IN A
+The DNS query name does not exist: hum.
+None of DNS query names exist: hungerstrikeforaids.org., hungerstrikeforaids.org.
+None of DNS query names exist: i2runner.com., i2runner.com.
+None of DNS query names exist: ibros.org., ibros.org.
+None of DNS query names exist: iblogservf.net., iblogservf.net.
+The DNS response does not contain an answer to the question: idv.tw. IN A
+The DNS response does not contain an answer to the question: ied2k.net. IN A
+None of DNS query names exist: ieasynews.net., ieasynews.net.
+All nameservers failed to answer the query ignitedetroit.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: immigration.gov.tw. IN A
+All nameservers failed to answer the query friendfeedmedia.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query innermongolia.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: insidesocialgame.com., insidesocialgame.com.
+None of DNS query names exist: interestinglaugh.com., interestinglaugh.com.
+None of DNS query names exist: interfaceaddiction.com., interfaceaddiction.com.
+None of DNS query names exist: iphonix.fr., iphonix.fr.
+The DNS response does not contain an answer to the question: ipv6.google.com. IN A
+None of DNS query names exist: itaboo.info., itaboo.info.
+None of DNS query names exist: itrc.gov.tw., itrc.gov.tw.
+The DNS response does not contain an answer to the question: izles.net. IN A
+All nameservers failed to answer the query iu45.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: jike.com. IN A
+All nameservers failed to answer the query jinbushe.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: iverycd.com., iverycd.com.
+None of DNS query names exist: jobso.tv., jobso.tv.
+None of DNS query names exist: jsquaredjavascript.com., jsquaredjavascript.com.
+All nameservers failed to answer the query izaobao.us. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: keontech.net., keontech.net.
+The DNS response does not contain an answer to the question: keso.cn. IN A
+The DNS response does not contain an answer to the question: khms.gov.tw. IN A
+All nameservers failed to answer the query facebook.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: klsio.gov.tw. IN A
+The DNS response does not contain an answer to the question: krxd.net. IN A
+None of DNS query names exist: kusocity.com., kusocity.com.
+None of DNS query names exist: lamenhu.com., lamenhu.com.
+None of DNS query names exist: laptoplockdown.com., laptoplockdown.com.
+None of DNS query names exist: laqingdan.net., laqingdan.net.
+The DNS response does not contain an answer to the question: licdn.com. IN A
+The DNS response does not contain an answer to the question: linglingfa.com. IN A
+None of DNS query names exist: livingonline.us., livingonline.us.
+The DNS response does not contain an answer to the question: logbot.net. IN A
+None of DNS query names exist: logmike.com., logmike.com.
+None of DNS query names exist: loved.hk., loved.hk.
+The DNS response does not contain an answer to the question: lsxszzg.com. IN A
+The DNS response does not contain an answer to the question: lungtanhr.gov.tw. IN A
+All nameservers failed to answer the query lvhai.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: marguerite.su. IN A
+The DNS response does not contain an answer to the question: marines.mil. IN A
+All nameservers failed to answer the query liujianshu.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: mathiewbadimon.com., mathiewbadimon.com.
+None of DNS query names exist: matsunews.gov.tw., matsunews.gov.tw.
+All nameservers failed to answer the query mayimayi.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query megarotic.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query megaporn.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query megavideo.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: merittimes.com.tw., merittimes.com.tw.
+The DNS response does not contain an answer to the question: mh4u.org. IN A
+None of DNS query names exist: michaelmarketl.com., michaelmarketl.com.
+The DNS response does not contain an answer to the question: meirixiaochao.com. IN A
+None of DNS query names exist: minghuib.org., minghuib.org.
+The DNS response does not contain an answer to the question: mingpaosf.com. IN A
+The DNS response does not contain an answer to the question: mingpaotor.com. IN A
+The DNS response does not contain an answer to the question: mingpaovan.com. IN A
+The DNS response does not contain an answer to the question: moe.gov.tw. IN A
+All nameservers failed to answer the query monitorchina.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: msocdn.com. IN A
+The DNS response does not contain an answer to the question: mteam.cc. IN A
+None of DNS query names exist: mtw.tl., mtw.tl.
+None of DNS query names exist: muselinks.co.jp., muselinks.co.jp.
+All nameservers failed to answer the query mihua.org. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query myfreshnet.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: mymaji.com. IN A
+None of DNS query names exist: mytwishirt.com., mytwishirt.com.
+The DNS response does not contain an answer to the question: nanzao.com. IN A
+None of DNS query names exist: nccwatch.org.tw., nccwatch.org.tw.
+The DNS response does not contain an answer to the question: navy.mil. IN A
+The DNS response does not contain an answer to the question: ncree.gov.tw. IN A
+The DNS response does not contain an answer to the question: neolee.cn. IN A
+The DNS response does not contain an answer to the question: ner.gov.tw. IN A
+The DNS response does not contain an answer to the question: nerch.gov.tw. IN A
+The DNS response does not contain an answer to the question: nerhl.gov.tw. IN A
+The DNS response does not contain an answer to the question: nertt.gov.tw. IN A
+All nameservers failed to answer the query myopenid.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query memedia.cn. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: news.atebits.com., news.atebits.com.
+The DNS operation timed out after 30.0006320476532 seconds
+None of DNS query names exist: neverforget8964.org., neverforget8964.org.
+None of DNS query names exist: nextonnet.jp., nextonnet.jp.
+The DNS response does not contain an answer to the question: nihilogic.dk. IN A
+The DNS response does not contain an answer to the question: nga.mil. IN A
+All nameservers failed to answer the query naitik.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query ncn.org. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: nighost.org., nighost.org.
+The DNS response does not contain an answer to the question: njuice.com. IN A
+The DNS operation timed out after 30.001197576522827 seconds
+All nameservers failed to answer the query novelasia.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: npa.go.jp. IN A
+The DNS response does not contain an answer to the question: npm.gov.tw. IN A
+All nameservers failed to answer the query ntdmh.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: ntl.gov.tw. IN A
+The DNS response does not contain an answer to the question: ntsec.gov.tw. IN A
+The DNS response does not contain an answer to the question: ntu.edu.tw. IN A
+The DNS response does not contain an answer to the question: ntuh.gov.tw. IN A
+The DNS response does not contain an answer to the question: nvri.gov.tw. IN A
+The DNS response does not contain an answer to the question: nyc.gov.tw. IN A
+None of DNS query names exist: nydus.ca., nydus.ca.
+The DNS response does not contain an answer to the question: nytimg.com. IN A
+None of DNS query names exist: octoberreview.org., octoberreview.org.
+All nameservers failed to answer the query nict.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query openwebster.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: osfoora.com. IN A
+All nameservers failed to answer the query orn.jp. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: panluan.net., panluan.net.
+The DNS response does not contain an answer to the question: patehr.gov.tw. IN A
+All nameservers failed to answer the query nspo.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: pct.org.tw. IN A
+None of DNS query names exist: pdk.android.com., pdk.android.com.
+The DNS response does not contain an answer to the question: penchinese.com. IN A
+The DNS response does not contain an answer to the question: peopo.org. IN A
+All nameservers failed to answer the query percy.in. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: photo.utom.us. IN A
+All nameservers failed to answer the query phuquocservices.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: pinoyn.com., pinoyn.com.
+All nameservers failed to answer the query oyax.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: plus. IN A
+None of DNS query names exist: plays.com.tw., plays.com.tw.
+None of DNS query names exist: po2b.com., po2b.com.
+All nameservers failed to answer the query peerpong.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: porn2.com., porn2.com.
+None of DNS query names exist: portablesoft.org.ru., portablesoft.org.ru.
+None of DNS query names exist: premeforwindows7.com., premeforwindows7.com.
+None of DNS query names exist: psblog.name., psblog.name.
+The DNS response does not contain an answer to the question: pts.org.tw. IN A
+All nameservers failed to answer the query penchinese.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: pythonexcel.org., pythonexcel.org.
+None of DNS query names exist: qienkuen.org., qienkuen.org.
+None of DNS query names exist: qixianglu.cn., qixianglu.cn.
+All nameservers failed to answer the query pikchur.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query qanote.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: rameshsubramanian.org., rameshsubramanian.org.
+The DNS response does not contain an answer to the question: rayous.com. IN A
+All nameservers failed to answer the query rapid.pk. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: recordhistory.org. IN A
+All nameservers failed to answer the query pornvisit.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: rerouted.org. IN A
+The DNS response does not contain an answer to the question: reutersmedia.net. IN A
+All nameservers failed to answer the query riku.me. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: rojo.com. IN A
+None of DNS query names exist: rsfchinese.org., rsfchinese.org.
+The DNS response does not contain an answer to the question: rti.org.tw. IN A
+None of DNS query names exist: s1heng.com., s1heng.com.
+None of DNS query names exist: saiq.me., saiq.me.
+None of DNS query names exist: sandnoble.com., sandnoble.com.
+The DNS response does not contain an answer to the question: savevid.com. IN A
+None of DNS query names exist: say2.info., say2.info.
+The DNS response does not contain an answer to the question: scout.org.hk. IN A
+None of DNS query names exist: sdragon.org., sdragon.org.
+All nameservers failed to answer the query renanse.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: seapuff.com., seapuff.com.
+None of DNS query names exist: semicolonapps.com., semicolonapps.com.
+The DNS response does not contain an answer to the question: serving-sys.com. IN A
+None of DNS query names exist: sesawe.org., sesawe.org.
+None of DNS query names exist: setty.com.tw., setty.com.tw.
+None of DNS query names exist: shahamatenglish.com., shahamatenglish.com.
+All nameservers failed to answer the query shangfang.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: sharpinsandiego.com., sharpinsandiego.com.
+None of DNS query names exist: sharpdaily.com.hk., sharpdaily.com.hk.
+All nameservers failed to answer the query sftuk.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query sankaizok.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: shenshou.org. IN A
+None of DNS query names exist: shinychan.com., shinychan.com.
+The DNS response does not contain an answer to the question: shitaotv.org. IN A
+None of DNS query names exist: shwchurch3.com., shwchurch3.com.
+The DNS response does not contain an answer to the question: sinica.edu.tw. IN A
+The DNS response does not contain an answer to the question: sinoants.com. IN A
+None of DNS query names exist: sinonet.ca., sinonet.ca.
+None of DNS query names exist: sinopitt.info., sinopitt.info.
+All nameservers failed to answer the query qmzdd.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: siteks.uk.to., siteks.uk.to.
+The DNS response does not contain an answer to the question: slidesharecdn.com. IN A
+All nameservers failed to answer the query snaptu.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: sndcdn.com. IN A
+The DNS response does not contain an answer to the question: soc.mil. IN A
+The DNS response does not contain an answer to the question: sod.co.jp. IN A
+None of DNS query names exist: softetherdownload.com., softetherdownload.com.
+The DNS response does not contain an answer to the question: soga.net. IN A
+The DNS response does not contain an answer to the question: sonet.net.tw. IN A
+None of DNS query names exist: songjianjun.com., songjianjun.com.
+The DNS response does not contain an answer to the question: soulplus.net. IN A
+All nameservers failed to answer the query sidelinesnews.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query soifind.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: sshforwarding.com., sshforwarding.com.
+All nameservers failed to answer the query sjum.cn. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: srcf.ucam.org. IN A
+None of DNS query names exist: state168.com., state168.com.
+The DNS response does not contain an answer to the question: staticflickr.com. IN A
+The DNS response does not contain an answer to the question: stdtime.gov.tw. IN A
+All nameservers failed to answer the query snippetsapp.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: stuffimreading.net., stuffimreading.net.
+The DNS response does not contain an answer to the question: sunjidong.net. IN A
+All nameservers failed to answer the query stag.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: szbbs.net. IN A
+The DNS response does not contain an answer to the question: taipei.gov.tw. IN A
+None of DNS query names exist: taitunghouse.gov.tw., taitunghouse.gov.tw.
+The DNS response does not contain an answer to the question: taoyuan.gov.tw. IN A
+The DNS response does not contain an answer to the question: taup.org.tw. IN A
+None of DNS query names exist: tbpic.info., tbpic.info.
+The DNS response does not contain an answer to the question: tcsac.gov.tw. IN A
+The DNS response does not contain an answer to the question: thbstc.gov.tw. IN A
+None of DNS query names exist: theatrumbelli.com., theatrumbelli.com.
+None of DNS query names exist: theqii.info., theqii.info.
+None of DNS query names exist: thereallove.kr., thereallove.kr.
+The DNS response does not contain an answer to the question: throughnightsfire.com. IN A
+The DNS response does not contain an answer to the question: thywords.com. IN A
+None of DNS query names exist: thevivekspot.com., thevivekspot.com.
+The DNS response does not contain an answer to the question: tipo.gov.tw. IN A
+None of DNS query names exist: tkcscollins.com., tkcscollins.com.
+None of DNS query names exist: tkforum.tk., tkforum.tk.
+The DNS operation timed out after 30.00017237663269 seconds
+The DNS response does not contain an answer to the question: tonooka.jp. IN A
+The DNS response does not contain an answer to the question: topsy.com. IN A
+All nameservers failed to answer the query tonyyan.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query threatchaos.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: tphcc.gov.tw. IN A
+None of DNS query names exist: tpi.org.tw., tpi.org.tw.
+None of DNS query names exist: transgressionism.org., transgressionism.org.
+None of DNS query names exist: trialofccp.org., trialofccp.org.
+The DNS response does not contain an answer to the question: trtc.com.tw. IN A
+None of DNS query names exist: tsurubird.net., tsurubird.net.
+The DNS response does not contain an answer to the question: ttv.com.tw. IN A
+All nameservers failed to answer the query tap11.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: twblogger.com., twblogger.com.
+All nameservers failed to answer the query tweetboard.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: tweetmylast.fm. IN A
+All nameservers failed to answer the query twiggit.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS operation timed out after 30.000938415527344 seconds
+The DNS response does not contain an answer to the question: twitvid.com. IN A
+None of DNS query names exist: twstar.net., twstar.net.
+None of DNS query names exist: twyac.org., twyac.org.
+All nameservers failed to answer the query tweete.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query speckleapp.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query twitgether.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: upload4u.info., upload4u.info.
+All nameservers failed to answer the query usacn.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: usinfo.state.gov., usinfo.state.gov.
+The DNS response does not contain an answer to the question: usfk.mil. IN A
+The DNS response does not contain an answer to the question: usmc.mil. IN A
+None of DNS query names exist: v7976888.info., v7976888.info.
+None of DNS query names exist: vanemu.cn., vanemu.cn.
+None of DNS query names exist: vcfonline.org., vcfonline.org.
+None of DNS query names exist: vegorpedersen.com., vegorpedersen.com.
+The DNS response does not contain an answer to the question: vghtc.gov.tw. IN A
+The DNS response does not contain an answer to the question: vghtpe.gov.tw. IN A
+All nameservers failed to answer the query vanillajp.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: vft.com.tw., vft.com.tw.
+None of DNS query names exist: vincnd.com., vincnd.com.
+The DNS response does not contain an answer to the question: visibotech.com. IN A
+The DNS response does not contain an answer to the question: voa.mobi. IN A
+The DNS response does not contain an answer to the question: voachineseblog.com. IN A
+The DNS response does not contain an answer to the question: voagd.com. IN A
+None of DNS query names exist: w.sns.ly., w.sns.ly.
+None of DNS query names exist: waigaobu.com., waigaobu.com.
+None of DNS query names exist: w.idaiwan.com., w.idaiwan.com.
+None of DNS query names exist: wallornot.org., wallornot.org.
+None of DNS query names exist: wanglixiong.com., wanglixiong.com.
+The DNS response does not contain an answer to the question: wangafu.net. IN A
+The DNS response does not contain an answer to the question: wapedia.mobi. IN A
+All nameservers failed to answer the query vpnpronet.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: web.id. IN A
+All nameservers failed to answer the query uploadstation.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: weekmag.info., weekmag.info.
+None of DNS query names exist: wezhiyong.org., wezhiyong.org.
+None of DNS query names exist: wexiaobo.org., wexiaobo.org.
+The DNS query name does not exist: Wikipedia.
+The DNS response does not contain an answer to the question: windowslive.cn. IN A
+None of DNS query names exist: winwhispers.info., winwhispers.info.
+All nameservers failed to answer the query wisevid.com. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+None of DNS query names exist: woesermiddleway.net., woesermiddleway.net.
+None of DNS query names exist: womensrightsofchina.org., womensrightsofchina.org.
+None of DNS query names exist: woopie.tv., woopie.tv.
+The DNS response does not contain an answer to the question: wowlife.net. IN A
+None of DNS query names exist: wowlegacy.ml., wowlegacy.ml.
+None of DNS query names exist: woxinghuiguo.com., woxinghuiguo.com.
+All nameservers failed to answer the query v70.us. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query wenku.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: wqlhw.com. IN A
+None of DNS query names exist: wqyd.org., wqyd.org.
+None of DNS query names exist: wukangrui.net., wukangrui.net.
+None of DNS query names exist: xh4n.cn., xh4n.cn.
+None of DNS query names exist: xfm.pp.ru., xfm.pp.ru.
+None of DNS query names exist: xiaod.in., xiaod.in.
+The DNS response does not contain an answer to the question: xiaoma.org. IN A
+None of DNS query names exist: xilou.us., xilou.us.
+The DNS response does not contain an answer to the question: xinshijue.com. IN A
+None of DNS query names exist: xizangzhiye.org., xizangzhiye.org.
+None of DNS query names exist: xuzhiyong.net., xuzhiyong.net.
+The DNS response does not contain an answer to the question: yasukuni.or.jp. IN A
+The DNS response does not contain an answer to the question: yipub.com. IN A
+All nameservers failed to answer the query wezone.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: yong.hu. IN A
+All nameservers failed to answer the query webstv.net. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: ytimg.com. IN A
+The DNS response does not contain an answer to the question: ytht.net. IN A
+The DNS response does not contain an answer to the question: zaurus.org.uk. IN A
+All nameservers failed to answer the query yyii.org. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: zgncdn.com. IN A
+None of DNS query names exist: zgzcjj.net., zgzcjj.net.
+None of DNS query names exist: zhenlibu.info., zhenlibu.info.
+None of DNS query names exist: zhreader.com., zhreader.com.
+None of DNS query names exist: zillionk.com., zillionk.com.
+All nameservers failed to answer the query xiaohexie.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query zshare.net. IN A: Server 114.114.114.114 UDP port 53 answered SERVFAIL
+The DNS response does not contain an answer to the question: zuo.la. IN A
+All nameservers failed to answer the query yvtc.gov.tw. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
+All nameservers failed to answer the query zannel.com. IN A: Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered The DNS operation timed out.; Server 114.114.114.114 UDP port 53 answered SERVFAIL
